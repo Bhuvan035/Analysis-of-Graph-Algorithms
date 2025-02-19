@@ -85,6 +85,6 @@ Calculates and adds a best-fit line (regression) to the degree distribution plot
 - `numpy`: For numerical calculations.
 - `scipy`: For regression and statistical analysis.
 
-## License
+## Contact
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+For any questions or issues, feel free to reach out via GitHub Issues or email **[bhuvanchandra3008@gmail.com](mailto:bhuvanchandra3008@gmail.com)**.
