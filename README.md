@@ -26,23 +26,19 @@ This project implements the generation and analysis of random graphs, specifical
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/random-graph-analysis.git
+   git clone https://github.com/your-username/Analysis-of-Graph-Algorithms.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd random-graph-analysis
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
+   cd Analysis-of-Graph-Algorithms
    ```
 
 ## Usage
 
-To run the experiments and visualize the graph properties, execute the following Python script:
+To run the experiments and visualize the graph properties (you can also change the parameters to your liking), execute the following Python script:
 
 ```bash
-python random_graph_analysis.py
+python main.py
 ```
 
 ### Experiment Parameters:
@@ -85,6 +81,6 @@ Calculates and adds a best-fit line (regression) to the degree distribution plot
 - `numpy`: For numerical calculations.
 - `scipy`: For regression and statistical analysis.
 
-## License
+## Contact
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+For any questions or issues, feel free to reach out via GitHub Issues or email **[bhuvanchandra3008@gmail.com](mailto:bhuvanchandra3008@gmail.com)**.
